@@ -1,0 +1,15 @@
+---
+title: "midterm2"
+output: html_document
+---
+10:00 Section
+Susan Yurkewicz
+
+October 15, 2017
+
+Here is some arithmetic:
+
+x<-7
+y<-9
+x-cos(y)
+## [1] 7.91113
